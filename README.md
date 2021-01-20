@@ -10,5 +10,5 @@ Worth mentioning this project started out half-assed, and slowly worked its way 
 # Download
 https://www.mediafire.com/file/j4iltcrfufxn94x/mgx_stuff.zip/file
 
-When running the main executable file, it will generate a hosting.properties file, open that with any text editor and change the Token property to a working token.
+When running the main executable file, it will generate a hosting.properties file, open that with any text editor and change the Token property to a working Discord auth token (bot account not bearer).
 If you (app reader) do not wish to run this file, I can do so myself and show it working in a temporary Discord server.
