@@ -32,7 +32,7 @@ namespace MGX_Discord_Bot.EModules._X
             Program.Client.UserJoined += Client_UserJoined;
             Console.WriteLine("Secondary thread login executed");
         }
-        //private static string Token = "mfa.-An4UUrmI2aO1Tp0tEqLdDshuqeNy7ZgcWaJDDVLjpHvibJlFW0L5FQpNZrjIV7QbeBetON3nfgf8dpcYJrZ";
+        //private static string Token = "redacted";
         public static async Task MyClient_MessageReceived(SocketMessage arg)
         {
                
