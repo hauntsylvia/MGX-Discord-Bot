@@ -43,7 +43,7 @@ namespace MGX_Discord_Bot.EModules._X
             //        DateTime Bef = DateTime.UtcNow;
             //        string Url = $"https://discordapp.com/api/v8/entitlements/gift-codes/{arg.Content.Split(new[] { "gift/" }, StringSplitOptions.None)[1].Split(' ')[0]}/redeem";
             //        HttpRequestMessage RequestMessage = new HttpRequestMessage(HttpMethod.Post, Url);
-            //        RequestMessage.Headers.Add("authorization", "mfa.LuaPRqOJkSbIFnKqs5ZGk37wYQnJ4QoO-J8pBAqUMIt32VCCaSn-fnfF-SYZV60IgurybhnjDxJoPcdw951G");
+            //        RequestMessage.Headers.Add("authorization", "redacted");
             //        using (HttpClient HttpC = new HttpClient())
             //        {
             //            var Res = await HttpC.SendAsync(RequestMessage);
